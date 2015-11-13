@@ -2,4 +2,4 @@
 
 A clean syntax theme for atom io.
 
-![javascript](https://github.com/github/training-kit/blob/master/images/professortocat.png)
+![javascript](https://raw.githubusercontent.com/mccervantes/giebele-syntax/master/screenshot-js.png)
