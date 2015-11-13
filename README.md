@@ -2,5 +2,5 @@
 
 A clean syntax theme for atom io.
 
-# Javascript
+#### Javascript Syntax
 ![javascript](https://raw.githubusercontent.com/mccervantes/giebele-syntax/master/screenshot-js.png)
